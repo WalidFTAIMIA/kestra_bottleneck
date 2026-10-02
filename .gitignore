@@ -12,6 +12,18 @@ bottleneck.db
 ~$*.pptx
 ~$*.xlsx
 
+# Livrables de soutenance et sorties generees
+*.pptx
+*.pdf
+*.drawio
+*.csv
+*.xlsx
+capture d'ecran/
+capture d'écran/
+
+# Sources locales de donnees
+data/
+
 # Configuration locale
 .env
 .vscode/
