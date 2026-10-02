@@ -1,0 +1,17 @@
+# Environnements locaux
+.venv/
+__pycache__/
+*.py[cod]
+
+# Bases et fichiers generes localement
+bottleneck.db
+*.db.wal
+*.db.tmp
+
+# Fichiers temporaires Office
+~$*.pptx
+~$*.xlsx
+
+# Configuration locale
+.env
+.vscode/

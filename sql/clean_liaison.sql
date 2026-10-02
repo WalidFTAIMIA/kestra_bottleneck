@@ -1,0 +1,4 @@
+CREATE OR REPLACE TABLE liaison_clean AS
+SELECT *
+FROM liaison
+WHERE id_web IS NOT NULL;
